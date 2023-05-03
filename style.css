@@ -1,0 +1,72 @@
+html,body{
+    height: 100%;
+    margin: 0;
+}
+.section{
+    height: 100%;
+
+}
+
+#first{ 
+    background: rgb(0,0,0);
+    background: linear-gradient(18deg, rgba(0,0,0,1) 32%, rgba(128,128,128,1) 100%);  
+    border: none;
+}
+#motivation{
+    height: 40%;
+}
+h2{
+    font-family: 'Caveat', cursive;
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Nunito Sans', sans-serif; 
+    color: aliceblue;
+    text-decoration-style: dotted;
+    text-decoration-line: underline;
+    text-decoration-color: white;
+    font-weight: normal;
+    font-size: 20px;
+    text-align: center;
+}
+h1{
+    color: whitesmoke;
+    text-align: center;font-size: 100px;
+    text-decoration-color: white;
+    font-family: 'Libre Baskerville', serif;
+}
+#yesno{
+    height: 50%;
+
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.button {
+        border-radius: 50%;
+        width: 150px;
+        height: 150px;
+        background: rgb(0,0,0);
+        background: radial-gradient(circle, rgba(0,0,0,0.8061275535604867) 36%, rgba(255,255,255,1) 100%);
+        border: none;
+        cursor: pointer;
+        display: inline;
+        margin: 100 auto;
+        position: relative;
+        top: 50%;
+        left: 40%;
+        transform: translate(-50%, -50%);
+        font-size: 30px;
+        color: white;
+        text-align: center;
+}
+#page1{
+    background: linear-gradient(18deg, rgba(0,0,0,1) 32%, rgba(128,128,128,1) 100%);  
+    border: none;
+
+}
+#jac{
+    color: black;
+}
+#image{
+background: linear-gradient(180deg, rgba(0,0,0,1) 51%, rgba(255,255,255,1) 100%, rgba(255,255,255,1) 100%);
+}
